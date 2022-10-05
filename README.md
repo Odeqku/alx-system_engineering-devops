@@ -1,2 +1,1 @@
-#!/bin/bash This is to create my first script with shebang in it
-
+This project is on shall
