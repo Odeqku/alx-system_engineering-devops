@@ -1,2 +1,2 @@
 #!/bin/bash
-chown hello --referance betty
+chown betty hello
