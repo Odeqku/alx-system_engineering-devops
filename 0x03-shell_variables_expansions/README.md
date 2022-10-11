@@ -1,0 +1,1 @@
+This is a readme file for 0x03-shell_variables_expansions project. Update to this file would include introduction and explanation on the commands and scripts to be used and written respecrively to achieve the objectives of the project. 
