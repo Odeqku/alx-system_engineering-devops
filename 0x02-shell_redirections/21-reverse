@@ -1,2 +1,2 @@
 #!/bin/bash
-rev love
+echo "love" |rev
